@@ -1,0 +1,13 @@
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.exe
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.deps.json
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.runtimeconfig.json
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.dll
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\bin\Debug\netcoreapp3.1\parantezapp.pdb
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.dll
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.pdb
+C:\Users\Ahmet\source\repos\parantezapp\parantezapp\obj\Debug\netcoreapp3.1\parantezapp.genruntimeconfig.cache

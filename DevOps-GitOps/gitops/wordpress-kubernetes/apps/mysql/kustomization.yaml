@@ -1,0 +1,13 @@
+resources:
+  - pvc-mysql.yaml
+  - deployment-mysql.yaml
+  - service-mysql.yaml
+
+secretGenerator:
+- name: mysql-pass
+  namespace: wordpress
+  envs:
+  - .env.secret
+  
+generatorOptions:
+ disableNameSuffixHash: true

@@ -1,0 +1,5 @@
+resources:
+  - namespace.yaml
+bases:
+  - ./apps/mysql
+  - ./apps/wordpress
